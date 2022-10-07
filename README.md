@@ -1,5 +1,12 @@
-This is a Single Page, Mobile Responsive Static Website .
+# HTML CSS JS Landing Page Website
 
-Tech ---> HTML, CSS, JS
+- This is a Single Page Website
+- Mobile Responsive Static Website
 
-Host URL ---> https://agencywebsitevinay.netlify.app/
+# Tech
+
+- HTML, CSS, JS
+
+### Demo - Deployed over Netlify
+
+- https://agencywebsitevinay.netlify.app/
